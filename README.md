@@ -1,2 +1,2 @@
-This is a sample project with a stock ticker to be shown in SSD1306 lcd
+This is a simple ESP32 project to display stock ticker on a connected SH1106 OLED module
 
