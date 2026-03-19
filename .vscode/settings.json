@@ -1,0 +1,12 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "clangd.path": "/Users/nevil/.espressif/tools/esp-clang/esp-19.1.2_20250312/esp-clang/bin/clangd",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=**",
+    "--compile-commands-dir=/Users/nevil/dev/esp32/lcd_news/lcd/build"
+  ],
+  "idf.currentSetup": "/Users/nevil/.espressif/v5.5.3/esp-idf",
+  "idf.port": "/dev/tty.usbserial-21130",
+  "idf.flashType": "UART"
+}
